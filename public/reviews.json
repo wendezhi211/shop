@@ -1,0 +1,108 @@
+[
+    {
+      "productId": 1,
+      "reviews": [
+        { "user": "玩家A", "comment": "性能强劲，游戏体验非常棒！" },
+        { "user": "设计师B", "comment": "处理图形设计任务非常流畅。" }
+      ]
+    },
+    {
+      "productId": 2,
+      "reviews": [
+        { "user": "家庭主妇C", "comment": "操作简单，烤出来的食物很美味。" },
+        { "user": "美食爱好者D", "comment": "功能齐全，大大提升了烹饪效率。" }
+      ]
+    },
+    {
+      "productId": 3,
+      "reviews": [
+        { "user": "运动爱好者E", "comment": "面料舒适，非常适合户外运动。" },
+        { "user": "时尚达人F", "comment": "设计时尚，日常穿着也很合适。" }
+      ]
+    },
+    {
+      "productId": 4,
+      "reviews": [
+        { "user": "手机控G", "comment": "拍照效果非常出色，电池续航也很给力。" },
+        { "user": "科技爱好者H", "comment": "系统流畅，功能强大，非常满意。" }
+      ]
+    },
+    {
+      "productId": 5,
+      "reviews": [
+        { "user": "环保人士I", "comment": "材料环保，使用安心，非常喜欢。" },
+        { "user": "户外爱好者J", "comment": "轻便耐用，户外使用非常方便。" }
+      ]
+    },
+    {
+      "productId": 6,
+      "reviews": [
+        { "user": "商务人士K", "comment": "剪裁精致，穿着舒适，非常适合商务场合。" },
+        { "user": "时尚达人L", "comment": "设计简约大方，日常穿着也很合适。" }
+      ]
+    },
+    {
+      "productId": 7,
+      "reviews": [
+        { "user": "音乐爱好者M", "comment": "音质出色，户外活动必备。" },
+        { "user": "旅行者N", "comment": "携带方便，音量足够大，非常实用。" }
+      ]
+    },
+    {
+      "productId": 8,
+      "reviews": [
+        { "user": "家庭主妇O", "comment": "加热速度快，保温效果好，非常实用。" },
+        { "user": "健康追求者P", "comment": "智能控温，确保水质，非常满意。" }
+      ]
+    },
+    {
+      "productId": 9,
+      "reviews": [
+        { "user": "运动爱好者Q", "comment": "防水性能好，运动数据记录准确。" },
+        { "user": "户外探险者R", "comment": "功能全面，非常适合户外活动。" }
+      ]
+    },
+    {
+      "productId": 10,
+      "reviews": [
+        { "user": "电影爱好者S", "comment": "画质清晰，观影体验非常棒。" },
+        { "user": "科技爱好者T", "comment": "智能系统操作便捷，功能丰富。" }
+      ]
+    },
+    {
+      "productId": 11,
+      "reviews": [
+        { "user": "家庭主妇U", "comment": "吸水性好，柔软舒适，非常喜欢。" },
+        { "user": "环保人士V", "comment": "材料环保，使用安心，推荐购买。" }
+      ]
+    },
+    {
+      "productId": 12,
+      "reviews": [
+        { "user": "商务人士W", "comment": "材质高档，设计实用，非常满意。" },
+        { "user": "职场新人X", "comment": "外观时尚，功能齐全，非常适合商务场合。" }
+      ]
+    },
+    {
+      "productId": 13,
+      "reviews": [
+        { "user": "音乐爱好者Y", "comment": "降噪效果出色，音质非常棒。" },
+        { "user": "通勤族Z", "comment": "续航时间长，非常适合日常使用。" }
+      ]
+    },
+    {
+      "productId": 14,
+      "reviews": [
+        { "user": "家庭主妇AA", "comment": "清扫效果好，大大减轻了家务负担。" },
+        { "user": "忙碌的职场人士BB", "comment": "智能便捷，非常适合忙碌的生活。" }
+      ]
+    },
+    {
+      "productId": 15,
+      "reviews": [
+        { "user": "运动爱好者CC", "comment": "排汗效果好，穿着舒适，非常适合运动。" },
+        { "user": "健身达人DD", "comment": "透气性好，运动时不会感到闷热。" }
+      ]
+    }
+  ]
+  

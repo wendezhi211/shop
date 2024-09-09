@@ -1,0 +1,139 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "高性能游戏笔记本",
+            "category": "电子产品",
+            "price": 1999,
+            "sales": 100,
+            "image": "https://via.placeholder.com/150",
+            "description": "搭载最新处理器和独立显卡，适合游戏和图形设计。"
+        },
+        {
+            "id": 2,
+            "name": "多功能智能烤箱",
+            "category": "家居用品",
+            "price": 299,
+            "sales": 200,
+            "image": "https://via.placeholder.com/150",
+            "description": "支持多种烹饪模式，轻松制作美味佳肴。"
+        },
+        {
+            "id": 3,
+            "name": "时尚休闲运动服",
+            "category": "服装",
+            "price": 399,
+            "sales": 150,
+            "image": "https://via.placeholder.com/150",
+            "description": "采用透气面料，适合日常休闲和运动时穿着。"
+        },
+        {
+            "id": 4,
+            "name": "高端智能手机",
+            "category": "电子产品",
+            "price": 2499,
+            "sales": 120,
+            "image": "https://via.placeholder.com/150",
+            "description": "配备顶级摄像头和大容量电池，提供卓越的使用体验。"
+        },
+        {
+            "id": 5,
+            "name": "环保竹纤维餐具套装",
+            "category": "家居用品",
+            "price": 199,
+            "sales": 180,
+            "image": "https://via.placeholder.com/150",
+            "description": "采用环保材料，适合家庭和户外使用。"
+        },
+        {
+            "id": 6,
+            "name": "商务休闲西装",
+            "category": "服装",
+            "price": 299,
+            "sales": 160,
+            "image": "https://via.placeholder.com/150",
+            "description": "剪裁合体，适合商务场合和日常穿着。"
+        },
+        {
+            "id": 7,
+            "name": "便携式蓝牙音箱",
+            "category": "电子产品",
+            "price": 499,
+            "sales": 80,
+            "image": "https://via.placeholder.com/150",
+            "description": "高保真音质，支持无线连接，适合户外活动。"
+        },
+        {
+            "id": 8,
+            "name": "智能恒温电热水壶",
+            "category": "家居用品",
+            "price": 149,
+            "sales": 130,
+            "image": "https://via.placeholder.com/150",
+            "description": "智能控温，快速加热，确保水质纯净。"
+        },
+        {
+            "id": 9,
+            "name": "运动防水手表",
+            "category": "服装",
+            "price": 599,
+            "sales": 90,
+            "image": "https://via.placeholder.com/150",
+            "description": "防水设计，支持多种运动模式，适合户外运动爱好者。"
+        },
+        {
+            "id": 10,
+            "name": "4K高清智能电视",
+            "category": "电子产品",
+            "price": 3499,
+            "sales": 70,
+            "image": "https://via.placeholder.com/150",
+            "description": "4K分辨率，智能系统，带来影院级观影体验。"
+        },
+        {
+            "id": 11,
+            "name": "环保竹纤维毛巾套装",
+            "category": "家居用品",
+            "price": 99,
+            "sales": 110,
+            "image": "https://via.placeholder.com/150",
+            "description": "柔软吸水，天然抗菌，适合家庭使用。"
+        },
+        {
+            "id": 12,
+            "name": "商务真皮公文包",
+            "category": "服装",
+            "price": 399,
+            "sales": 60,
+            "image": "https://via.placeholder.com/150",
+            "description": "高品质真皮材质，多隔层设计，适合商务人士。"
+        },
+        {
+            "id": 13,
+            "name": "无线蓝牙耳机",
+            "category": "电子产品",
+            "price": 799,
+            "sales": 50,
+            "image": "https://via.placeholder.com/150",
+            "description": "降噪功能，长续航，提供沉浸式音乐体验。"
+        },
+        {
+            "id": 14,
+            "name": "智能扫地机器人",
+            "category": "家居用品",
+            "price": 699,
+            "sales": 100,
+            "image": "https://via.placeholder.com/150",
+            "description": "自动规划清扫路径，高效清洁，解放双手。"
+        },
+        {
+            "id": 15,
+            "name": "运动速干T恤",
+            "category": "服装",
+            "price": 199,
+            "sales": 120,
+            "image": "https://via.placeholder.com/150",
+            "description": "快速排汗，透气舒适，适合各类运动。"
+        }
+    ]
+}
